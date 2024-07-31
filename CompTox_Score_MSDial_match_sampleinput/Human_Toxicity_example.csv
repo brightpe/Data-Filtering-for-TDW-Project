@@ -1,0 +1,10 @@
+DXTSID,CAS,Name,Oral,Inhalation,Dermal,Carcinogenicity,Genotoxicity Mutagenicity,Endocrine Disruption,Reproductive,Developmental,Repeat Exposure: Nuerotoxicity,Single Exposure: Neurotoxicity,Repeat Exposure: Systemic Toxicity,Single Exposure: Systemic Toxicity,Skin Sensitization,Skin Irritation,Eye Irritation,PREFERRED_NAME,INCHIKEY,IUPAC_NAME,MONOISOTOPIC_MASS,AVERAGE_MASS
+DTXSID80862047,498-36-2,"Pentanoic acid, 2-hydroxy-4-methyl-",L,,,,VH,L,,L,,,,,,,,2-Hydroxy-4-methylpentanoic acid,LVRFTAZAXQPQHI-UHFFFAOYSA-N,2-Hydroxy-4-methylpentanoic acid,132.0786442,132.159
+DTXSID0048006,33665-90-6,Acesulfame,M,,,,H,L,,H,,,,,,,,Acesulfame,YGCFIWIQZPHFLU-UHFFFAOYSA-N,"6-Methyl-2H-1,2lambda~6~,3-oxathiazine-2,2,4(3H)-trione",162.9939288,163.15
+DTXSID5041809,100-88-9,Cyclamic acid,M,,,,L,L,,H,,,,,,,,Cyclamic acid,HCAJEUSONLESMK-UHFFFAOYSA-N,Cyclohexylsulfamic acid,179.0616145,179.23
+DTXSID8047686,564-20-5,(3aR)-(+)-Sclareolide,L,,,,VH,H,,H,,,,,,,,(3aR)-(+)-Sclareolide,IMKJGXCIJJXALX-SHUKQUCYSA-N,"(3aR,5aS,9aS,9bR)-3a,6,6,9a-Tetramethyldecahydronaphtho[2,1-b]furan-2(1H)-one",250.1932801,250.382
+DTXSID5021251,81-07-2,Saccharin,L,L,L,VH,VH,L,M,H,,,,,,,,Saccharin,CVHZOJJKTDOEJC-UHFFFAOYSA-N,"1H-1lambda~6~,2-Benzothiazole-1,1,3(2H)-trione",182.9990142,183.18
+DTXSID1040245,56038-13-2,Sucralose,L,,,,L,L,M,L,,,L,,,H,,Sucralose,BAQAVOSOZGMPRM-QBMZZYIRSA-N,"1,6-Dichloro-1,6-dideoxy-beta-D-fructofuranosyl 4-chloro-4-deoxy-alpha-D-galactopyranoside",396.0145507,397.63
+DTXSID3020209,94-26-8,4-Hydroxybenzoic acid butyl ester,L,,,,VH,H,L,M,,,L,,M,M,H,Butylparaben,QFOHBWFCKVYLES-UHFFFAOYSA-N,Butyl 4-hydroxybenzoate,194.0942943,194.23
+DTXSID3042003,111-03-5,Glycerol 1-monooleate,L,,,,VH,L,,L,,,,,,,,Glycerol 1-monooleate,RZRNAYUHWVFMIP-KTKRTIGZSA-N,"2,3-Dihydroxypropyl (9Z)-octadec-9-enoate",356.2926598,356.547
+DTXSID801302673,16887-75-5,2-Chlorobenzoic acid,M,,,,L,L,,L,,,,,H,H,H,2-Chlorobenzoic acid,IKCLCGXPQILATA-UHFFFAOYSA-M,2-Chlorobenzoate,154.9905306,155.56
